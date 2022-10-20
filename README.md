@@ -31,3 +31,5 @@ Specifically:
 - Result: Signal distributions were obtaind with the data driven by bg sub-method. Tight isolation efficiencies and purities were measured. Data-MC agreements were estimated as shifts in the isolation distributions.
 
 For more reference, you can read the reports of each project [here](https://github.com/CarolinaPerdomo/M2_Data_Projects/blob/main/Data_Master_Projects/Data_analysis_python_Planck_telescope/Report_Master_project_SZ%20effect%20on%20small%20patches%20of%20the%20sky.pdf), and [here](https://github.com/CarolinaPerdomo/M2_Data_Projects/blob/main/Data_Master_Projects/Data_science_root_C_ATLAS/Pre_Report_Internship.pdf), as well as see the respective final presentations [here](https://github.com/CarolinaPerdomo/M2_Data_Projects/blob/main/Data_Master_Projects/Data_analysis_python_Planck_telescope/Slides_Master_project_SZ%20effect%20on%20small%20patches%20of%20the%20sky.pdf), and [here](https://github.com/CarolinaPerdomo/M2_Data_Projects/blob/main/Data_Master_Projects/Data_science_root_C_ATLAS/Slides_InternshipPresentation.pdf).
+
+(If you are "unable to render code block" in the previous reference, refresh the page.)
