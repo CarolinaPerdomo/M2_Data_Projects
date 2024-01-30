@@ -13,7 +13,7 @@ Projects in data analysis and data science in which I participated during my M2 
 Specifically:
 
 ### Situation 1: :information_desk_person: 
-- 7 days of scientific mini-project in cosmology & astrophysics.
+- Project in cosmology & astrophysics.
 - Build algorithms for data analysis.
 - Context: Planck mission.
 - Task: Reconstruct clusters in patches of Planck maps. Separate the signals.
